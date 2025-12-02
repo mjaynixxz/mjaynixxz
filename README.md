@@ -60,3 +60,4 @@ Feel free to reach out if you'd like to collaborate on testing projects, discuss
 **Currently specializing in**: Web & Mobile Test Automation | Performance Testing | Quality Engineering | Healthcare Technology
 
 Thanks for visiting my profile! 😊
+
